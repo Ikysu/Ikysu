@@ -1,4 +1,4 @@
 <p align="center"> 
   View counter<br>
-  <img src="https://counter.iky.su/ikysu" />
+  <img src="https://counter.iky.su/ikysu.image" />
 </p>
