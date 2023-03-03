@@ -1,4 +1,4 @@
 <p align="center"> 
   View counter<br>
-  <img src="https://github-counter.iky.su/ikysu" />
+  <img src="https://nya-counter.ikysu.workers.dev/ikysu" />
 </p>
